@@ -88,7 +88,7 @@
                     <li class="nav-item animated fadeInLeftBig" role="presentation"><a class="nav-link" href="adicionar_foto.jsp"><i class="fa fa-camera-retro"></i></a></li>
                     <li class="nav-item animated fadeInLeftBig" role="presentation"><a class="nav-link" href="opcoes_fila.jsp"><i class="fa fa-plane"></i></a></li>
                     <li class="nav-item animated fadeInLeftBig" role="presentation"><a class="nav-link" href="editar_cadastro.jsp"><i class="fa fa-user"></i></a></li>
-                    <li class="nav-item animated fadeInLeftBig" role="presentation"><a class="nav-link" href="EncerrarSessao"><i class="fa fa-sign-out"></i></a></li>
+                    <li class="nav-item animated fadeInLeftBig" role="presentation"><a class="nav-link" href="EncerrarSessao"><i class="fa fa-sign-out-alt"></i></a></li>
                 </ul>
             </div>
         </nav>

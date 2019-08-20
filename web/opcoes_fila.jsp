@@ -13,7 +13,7 @@
         <!--===============================================================================================-->
         <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
         <!--===============================================================================================-->
-        <script src="https://kit.fontawesome.com/946a1a1c44.js"></script>
+        <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
         <!--===============================================================================================-->	
         <link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">

@@ -63,7 +63,7 @@
                                 <center>
                                     <div class="col-md-12">
                                         <button id="btnLogar" style="margin: 3px" class="btn btn-success btnEntrar btn-block">
-                                            <i class="fa fa-sign-in"></i> Entrar
+                                            <i class="fa fa-sign-in-alt"></i> Entrar
                                         </button>
                                     </div>
                                     <div class="col-md-12">
