@@ -96,7 +96,7 @@
                 <div class="collapse navbar-collapse" id="navcol-1" style="height: 80px">
                     <ul class="nav navbar-nav mx-auto">
                         <li class="nav-item animated fadeInLeftBig" role="presentation"><a class="nav-link" href="pagina_principal.jsp"><i class="fa fa-undo menu"></i></a></li>
-                        <li class="nav-item animated fadeInLeftBig" role="presentation"><a id="btnUpload" class="nav-link" onclick="uploadImagem()"><i class="fa fa-send menu"></i></a></li>
+                        <li class="nav-item animated fadeInLeftBig" role="presentation"><a id="btnUpload" class="nav-link" onclick="uploadImagem()"><i class="fas fa-cloud-upload-alt menu"></i></a></li>
                     </ul>
                 </div>
             </nav>
