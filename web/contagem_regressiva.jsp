@@ -63,7 +63,7 @@
                         </tbody>
                     </table>
                     <a href="https://goo.gl/maps/HLPT7zuFatNAJQyp7"><button class="btn btn-info"><i class="fa fa-map-marker"></i> Localização</button></a>
-                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#myModal"><i class="fa fa-dollar"></i> Inscreva-se</button>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#myModal"><i class="fas fa-dollar-sign"></i> Inscreva-se</button>
                 </div>
             </center>
         </div>
