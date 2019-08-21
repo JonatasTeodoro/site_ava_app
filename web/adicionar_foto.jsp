@@ -120,7 +120,7 @@
         <script src="vendor/countdowntime/countdowntime.js"></script>
         <!--===============================================================================================-->
         <script src="js/main.js"></script>
-        <script src="js/upload.js?version=2"></script>
+        <script src="js/upload.js?version=3"></script>
 
 
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.10/jquery.mask.min.js"></script>

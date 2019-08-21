@@ -7,7 +7,7 @@ function uploadImagem() {
 
     if (teste == 0) {
         alert('Insira uma imagem!');
-        document.getElementById('btnUpload').innerHTML = "<i class='fa fa-send menu'></i>";
+        document.getElementById('btnUpload').innerHTML = "<i class='fa fa-cloud-upload-alt menu'></i>";
     } else {
 
         var request = new XMLHttpRequest();
