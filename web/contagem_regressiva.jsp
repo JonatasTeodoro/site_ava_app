@@ -98,7 +98,7 @@
                         <p>- Acesso a banheiros exclusivos</p>
                         <p>- Acesso a área de camping com iluminação, energia, água, chuveiro quente.</p>
                         <p>- Estacionamento exclusivo com acomodações para carreta.</p>
-                        <h6 style="color: #F9C700">INSCRIÇÕES ANTECIPADAS R$ 85,00 ATÉ O DIA 30/08/2019 APÓS SOMENTE NO LOCAL A R$ 100,00, PREÇO ÚNICO PILOTO OU ACOMPANHANTE. </h6>
+                        <h6 style="color: #F9C700">INSCRIÇÕES ANTECIPADAS R$ 85,00 ATÉ O DIA 01/09/2019 APÓS SOMENTE NO LOCAL A R$ 100,00, PREÇO ÚNICO PILOTO OU ACOMPANHANTE. </h6>
                         <p>Crianças até 10 anos acompanhados de seus responsáveis não pagam</p>
                         <center><a href="https://pag.ae/7UZjzfKKs"><button class="btn btn-info">Efetuar compra</button></a></center>
                     </div>
