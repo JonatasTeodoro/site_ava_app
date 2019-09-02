@@ -63,7 +63,7 @@
                         </tbody>
                     </table>
                     <a href="https://goo.gl/maps/HLPT7zuFatNAJQyp7"><button class="btn btn-info"><i class="fa fa-map-marker"></i> Localização</button></a>
-                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#myModal"><i class="fas fa-dollar-sign"></i> Inscreva-se</button>
+                    <!--<button type="button" class="btn btn-success" data-toggle="modal" data-target="#myModal"><i class="fas fa-dollar-sign"></i> Inscreva-se</button>-->
                 </div>
             </center>
         </div>
@@ -80,7 +80,7 @@
         <div class="modal fade" id="myModal" role="dialog">
             <div class="modal-dialog">
 
-                <!-- Modal content-->
+
                 <div class="modal-content">
                     <div class="modal-header">
                         <h4 class="modal-title">INSCRIÇÃO AVAFEST 2019</h4>
